@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "Default": "Server=DESKTOP-UVBCQCG\\SQLEXPRESS;Database=laser;UserId=u_app;Password=Qazplm27;MultipleActiveResultSets=true"
+    }
+}  
